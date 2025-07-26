@@ -84,11 +84,6 @@ npm start
 
 ---
 
-📸 **Screenshots (Optional)**  
-_Add screenshots of Login Page, Dashboard, Admin Panel, etc._
-
----
-
 🧑‍💻 **Developer**  
 **Shivam Tripathi**
 
